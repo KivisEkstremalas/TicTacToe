@@ -14,6 +14,7 @@
     <string name="date">Date</string>
     <string name="enable_vibration">Enable vibration</string>
     <string name="clear_database">Clear database</string>
+    <string name="clear_history">Clear History</string>
     <string-array name="Themes">
         <item>Default Theme</item>
         <item>Dark Theme</item>

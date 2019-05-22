@@ -32,7 +32,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/empty_db"
-            android:text="@string/clear_database"
+            android:text="@string/clear_history"
             android:layout_marginTop="10dp"/>
     </LinearLayout>
 </RelativeLayout>
